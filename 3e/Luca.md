@@ -12,7 +12,7 @@ Dans un premier temps, nous verrons que LUCA est notre ancêtre à tous, puis no
 
 ## Comment prouver que LUCA est notre ancetre à tous ? 
 
-![](../img/1.png)
+![](../Img/1.png)
 
 De nos jours, les progrès de la biologie moléculaire ont permis de montrer que les êtres vivants actuels partagent un certain nombre de caractères.
 
