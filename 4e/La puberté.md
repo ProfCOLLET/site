@@ -1,15 +1,12 @@
 # La puberté
 
-
-
-[mermaid]
+```mermaid
 graph LR
 
 A(Enfant)-->B{Puberté}
 B-->C(Adulte)
-[/mermaid]
 
-
+```
 
 La puberté correspond au passage de l'enfance à l'adulte. Ce passage comprend de nombreuses transformations physiques, et psycologique. 
 
