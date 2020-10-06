@@ -2,12 +2,12 @@
 
 
 
-[mermaid]
+<div class="mermaid">
 graph LR
 
 A(Enfant)-->B{Puberté}
 B-->C(Adulte)
-[/mermaid]
+</div>
 
 
 
