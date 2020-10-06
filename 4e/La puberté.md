@@ -2,7 +2,6 @@
 
 
 
-<div class="mermaid">
 ```mermaid
 graph LR
 
