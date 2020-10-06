@@ -18,7 +18,7 @@
 
 ### Cours de 3e
 
-
+* [LUCA](3e/LUCA.md)
 
 ### Classe Relais
 
