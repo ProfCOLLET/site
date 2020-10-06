@@ -1,10 +1,21 @@
 # La puberté
 
+<<<<<<< HEAD
 ```mermaid
+=======
+
+
+<div class="mermaid">
+>>>>>>> 00c5a9b3b852b3a4291fc054533ea99db1dabe04
 graph LR
 
 A(Enfant)-->B{Puberté}
 B-->C(Adulte)
+<<<<<<< HEAD
+=======
+</div>
+
+>>>>>>> 00c5a9b3b852b3a4291fc054533ea99db1dabe04
 
 ```
 
