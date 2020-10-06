@@ -1,12 +1,4 @@
----
-title: 'Organisation fonctionnelle du corps'
-taxonomy:
-    category:
-        - chapter
-shortcode-citation:
-    items: cited
-    reorder_uncited: true
----
+# Organisation fonctionnelle du corps
 
 Notre corps fonctionne selon 4 grandes fonctions : 
 

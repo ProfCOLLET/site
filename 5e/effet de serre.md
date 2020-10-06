@@ -1,9 +1,6 @@
----
-title: 'L''effet de serre'
-shortcode-citation:
-    items: cited
-    reorder_uncited: true
----
+# Effet de serre
+
+
 
 L'effet de serre est un phénomène naturel provoquant une élévation de la température à la surface de notre planète. Indispensable à notre survie, ce fragile équilibre est menacé. Les activités humaines affectent la composition chimique de l'atmosphère et entraînent l'apparition d'un effet de serre additionnel, responsable en grande partie du changement climatique actuel.
 
@@ -14,7 +11,7 @@ Les deux tiers de l'énergie en provenance du soleil sont absorbés par l'atmosp
 L'énergie absorbée est réémise dans l'atmosphère sous forme de **rayonnement infrarouge**, lui même pris au piège par les gaz à effet de serre. 
 
 L'énergie est piégée. Ce phénomène a été baptisé « effet de serre » par analogie avec la serre du jardinier. On estime que sans cet effet de serre de l'atmosphère, la température moyenne à la surface de la terre serait au plus de - 19°C au lieu des 15°C que nous connaissons.
- 
+
 
 
 
@@ -31,7 +28,7 @@ Il existe un grand nombre de gaz à effet de serre naturellement présents dans 
 * L'ozone. Présent naturellement dans la stratosphère, vers 20 km d'altitude, il nous protège du rayonnement solaire ultraviolet qu'il absorbe.
 
 * Le protoxyde d'azote, appelé également « gaz hilarant », est émis naturellement par les sols et provient notamment de l'utilisation d'engrais azotés.
- 
+
 
 
 ## L'effet de serre additionnel : la part de l'Homme

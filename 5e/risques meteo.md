@@ -1,9 +1,4 @@
----
-title: 'Les risques climatiques et météorologiques'
-shortcode-citation:
-    items: cited
-    reorder_uncited: true
----
+
 
 ## Rappel
 
@@ -29,7 +24,8 @@ Un aléa faible avec une forte vulnérabilité entraine un risque faible. Un al�
    Risque : Faible x Fort = Faible. 
 
 
-! Le risque climatique est un risque lié aux indices climatiques tels que la température, le vent, la neige ou les précipitations.  On distingue ainsi différents risques climatiques, tous couverts par la vigilance météorologique de Météo France. Pour l’ensemble de ces risques, les consignes à suivre sont édictées par Météo France.
+
+Le risque climatique est un risque lié aux indices climatiques tels que la température, le vent, la neige ou les précipitations. On 	distingue ainsi différents risques climatiques, tous couverts par la vigilance météorologique de Météo France. Pour l’ensemble 	de ces risques, les consignes à suivre sont édictées par Météo France.
 
 
 
@@ -54,8 +50,8 @@ Le mot « canicule » désigne un épisode de températures élevées, de jour
 
 Les submersions marines peuvent provoquer des inondations sévères et rapides du littoral, des ports et des embouchures de fleuves. Elles sont liées à une élévation extrême du niveau de la mer due à la combinaison de plusieurs phénomènes :
 
-* l’intensité de la marée (niveau marin dû principalement aux phénomènes astronomiques et à la configuration géographique) ;
-* le passage d’une tempête, produisant une surélévation du niveau marin (houle, vent, diminution de la pression atmosphérique).
+* l’intensité de la marée (niveau marin dû principalement aux phénomènes astronomiques et à la configuration géographique)
+* le passage d’une tempête, produisant une surélévation du niveau marin (houle, vent, diminution de la pression atmosphérique)
 
 La simultanéité des phénomènes aggrave la submersion, accroît les débordements et permet à la mer d’atteindre des zones habituellement abritées.
 
@@ -63,10 +59,6 @@ La simultanéité des phénomènes aggrave la submersion, accroît les débordem
 
 ### Crue 
 
-[plugin:youtube](https://www.youtube.com/watch?v=jgWbYDUm-ME)
-[plugin:youtube](https://www.youtube.com/watch?v=2Rfuoylv34k)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jgWbYDUm-ME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Rfuoylv34k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Eboulements et glissements de terrain
-
-[plugin:youtube](https://www.youtube.com/watch?v=_5T2oDDE2cs)
-[plugin:youtube](https://www.youtube.com/watch?v=3nauyL1Q4iE)

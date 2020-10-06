@@ -1,9 +1,4 @@
----
-title: 'La crise Permo-Trias'
-shortcode-citation:
-    items: cited
-    reorder_uncited: true
----
+# La crise Permo-Trias
 
 L'extinction Permien-Trias est une extinction massive survenue il y a **environ 250 millions d'années**. Elle délimite les périodes géologiques du Permien et du Trias, donc la limite entre l'ère primaire l'ère secondaire.
 

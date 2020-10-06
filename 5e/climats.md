@@ -1,9 +1,4 @@
----
-title: Climats
-shortcode-citation:
-    items: cited
-    reorder_uncited: true
----
+
 
 # L'évolution du climat au cours du temps 
 

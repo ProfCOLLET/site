@@ -1,9 +1,4 @@
----
-title: 'L''impact de Chixulub'
-shortcode-citation:
-    items: cited
-    reorder_uncited: true
----
+
 
 # L'impact de Chixulub 
 
@@ -17,4 +12,3 @@ Le diamètre du cratère, **d’environ 180 kilomètres**, laisse imaginer une p
 
 ![](http://www.cite-sciences.fr/fileadmin/_processed_/csm_chicxulub_9e2cea10c1.jpg)
 
-[plugin:youtube](https://www.youtube.com/watch?v=5qJPTjMnwNk)

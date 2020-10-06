@@ -1,9 +1,4 @@
----
-title: 'La crise Crétacé / Tertiaire'
-shortcode-citation:
-    items: cited
-    reorder_uncited: true
----
+# La crise Crétacé / Tertiaire
 
 La crise du Crétacé-Tertiaire est une extinction de masse survenue voici 65 millions d'années, à la fin du Crétacé.
 

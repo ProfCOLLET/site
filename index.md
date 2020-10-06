@@ -1,14 +1,44 @@
-# Bienvenue sur le site du prof
+# Bienvenue
+
+Ce cours regroupe des cours, des morceau de cours, ou des activités, plus ou moins rangées. 
+
+Tout ce qui se trouve sur ce site est sous licence (CC), reproduction partielle ou totale gratuite et authorisée, modification partielle ou totale authorisée, commerce interdit.
+
+Merci de citer le site pour toute utilisation. 
+
+## Qui suis-je ? 
+
+
+
+Je m'appelle Prof, je suis certifié de SVT, et un peu(beaucoup) geek sur les bords. 
+
+Plus d'informations ? 
+
+[contact@profcollet.fr](mailto:contact@profcollet.fr)
 
 
 
 ## Menu
 
-
-
 ### Cours de 5e
 
-
+* [La cellule](5e/cellule.md)
+* [L'impact de Chixulub](5e/chixulub.md) 
+*  [Les Climats](5e/climats.md) 
+*  [La crise Crétacé Tertiaire](5e/crise kt.md) 
+*  [Dynamique des masses d'air](5e/dynamique des masses d'air.md) 
+*  [Dynamique des masses d'eau](5e/dynamique des masses deau.md) 
+*  [La faune d'*Ediacara*](5e/ediacara.md) 
+*  [L'effet de Serre](5e/effet de serre.md) 
+*  [*El Niño*](5e/el nino.md) 
+*  [La faune de *Burgess*](5e/faune de burgess.md) 
+*  [Frise de l'histoire géologique de la Terre](5e/frise svt.md) 
+*  [Le GulfStream](5e/gulfstream.md)  
+* [Le Système Solaire](5e/le systeme solaire.md) 
+*  [Météorologie](5e/meteorologie.md) 
+*  [Organisation fonctionnelle du corps](5e/organisation du corps.md) 
+*  [La crise Permo-Trias](5e/permotrias.md) 
+*  [Les risques météorologique et climatiques](5e/risques meteo.md) 
 
 ### Cours de 4e
 

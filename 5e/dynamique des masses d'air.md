@@ -1,9 +1,4 @@
----
-title: 'Dynamique des masses d''air'
-shortcode-citation:
-    items: cited
-    reorder_uncited: true
----
+# Dynamique des masses d'air
 
 ## L'atmosphère
 

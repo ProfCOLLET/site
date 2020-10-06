@@ -1,9 +1,4 @@
----
-title: Métérologie
-shortcode-citation:
-    items: cited
-    reorder_uncited: true
----
+# Métérologie
 
 Pour faire de la météorologie, il nous faut différents appareils de mesures : 
 ## Un thermomètre : 

@@ -1,9 +1,4 @@
----
-title: 'Faune de Burgess'
-shortcode-citation:
-    items: cited
-    reorder_uncited: true
----
+# La faune de Burgess
 
 La faune de Burgess est le nom des restes d'une faune originale, et exclusivement marine, présentant une grande diversité de formes et de tailles. Elle a été découverte par hasard en 1911 par le géologue américain Charles Doolittle Walcott.
 

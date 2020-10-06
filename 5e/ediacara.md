@@ -1,9 +1,6 @@
----
-title: 'La faune d''Ediacara'
-shortcode-citation:
-    items: cited
-    reorder_uncited: true
----
+# La faune d'Ediacara
+
+
 
 
 La faune de l'Édiacarien est constituée d'organismes énigmatiques fossiles en forme de feuille ou de tube datant de l'Édiacarien. Elle doit son nom aux collines Ediacara, situées à 650 km au nord d'Adélaïde en Australie.

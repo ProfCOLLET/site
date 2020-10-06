@@ -1,12 +1,4 @@
----
-title: 'La Cellule'
-taxonomy:
-    category:
-        - chapter
-shortcode-citation:
-    items: cited
-    reorder_uncited: true
----
+# La cellule 
 
 Les cellules sont l’**unité fonctionnelle** et **structurelle** de notre corps, chaque **cellule** a son but et son rôle à jouer dans le corps humain. 
 

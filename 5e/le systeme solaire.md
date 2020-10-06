@@ -1,17 +1,8 @@
----
-title: 'Le système solaire'
-media_order: 'Système solaire.pdf'
-published: true
-taxonomy:
-    category:
-        - chapter
-shortcode-citation:
-    items: cited
-    reorder_uncited: true
-visible: true
----
+# Le système solaire
 
-! [Système solaire.pdf](Syste%CC%80me%20solaire.pdf)
+
+
+Images : [Système solaire.pdf](Syste%CC%80me%20solaire.pdf)
 
 # Le Soleil
 
@@ -22,7 +13,7 @@ Autour de lui gravitent la Terre (à la vitesse de 30 km/s), **sept** autres pla
 
 Le Soleil représente à lui seul environ **99,8 %** de la masse du Système solaire ainsi constitué, Jupiter représentant plus des deux tiers du reste.
 
-!!!! 1 UA : Distance Terre- Soleil, soir 150 000 000 km. 
+1 UA : Distance Terre- Soleil, soir 150 000 000 km. 
 
 # Mercure
 
