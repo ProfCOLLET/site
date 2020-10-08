@@ -9,7 +9,7 @@ Il nous donne la température en °C (degrés Celsius). Le thermomètre est un a
 * Le Kelvin, unité scientifique, 1K correspond à 1°C ; 0K = -273°C.
 * Le degrés Fahrenheit, utilisé uniquement aux USA. 
 
-![](https://www.e-viti.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/h/thermometre-cave.jpg)
+![](https://media.centrakor.com/catalog/product/cache/image/800x800/0ee134d6d987b4a4dd752d2524c88dff/t/h/thermometre-interieur-exterieur-plastique-h-20-5cm-33387_33387_FRN01_WEB_7.jpg)
 
 ## Un pluviomètre : 
 
@@ -34,12 +34,12 @@ Il nous donne la quantité d’eau sous forme de vapeur dans l’air. C'est une 
 
 Il nous donne la vitesse des vents en km/h ou m/s.
 
-![](http://www.littoclime.net/boutique/images_produits/wss420-z.jpg)
+![](https://www.universmeteo.com/assets/images/articles/thumbs/lg/anemometre_3coupelles.jpg)
 
 ## Un luxmètre : 
 
 Il nous donne la luminosité en lux (1 lumen /m2). Un lumen correspond à la luminosité d'une bougie. 
 
-![](https://www.polydis.fr/WebRoot/Orange/Shops/8d7c81fe-552a-11e0-822f-000d609a287c/MediaGallery/projet_4_eme/OLUXMETRE01.jpg)
+![](https://www.mesure-pro.com/WebRoot/Orange/Shops/4dcd203c-3138-11e1-8f2a-000d609a287c/4F0F/140F/171E/CDFB/DE68/0A0C/05EA/89DB/SO_800.jpg)
 
 
