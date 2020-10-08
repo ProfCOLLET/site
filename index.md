@@ -68,7 +68,20 @@ Plus d'informations ?
 
 ### DDVPT
 
-
+- [L'oral ddvpt](DDVPT/oral ddvpt.md) 
 
 ### Autres thèmes
 
+#### Formations et orientation
+
+- [Fiches formations](Fiches/fiches formation.md) 
+- [ASSP](Fiches/FM assp.md) 
+- [ATMFC](Fiches/FM atmc.md) 
+- [Coiffure](Fiches/fm coiffure.md) 
+- [La 2GT](Fiches/la 2GT.md) 
+- [La procédure d'orientation en 3e](Fiches/procedure d orientation.md) 
+
+#### Pédagogique
+
+- [Le microscope](Fiches/le microscope.md) 
+- [L'argumentation en SVT](Fiches/l argumentation.md) 
