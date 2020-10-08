@@ -10,7 +10,7 @@ Merci de citer le site pour toute utilisation.
 
 
 
-Je m'appelle Prof, je suis certifié de SVT, et un peu(beaucoup) geek sur les bords. 
+Je m'appelle Prof, je suis certifié de SVT, et un peu (beaucoup) geek sur les bords. 
 
 Plus d'informations ? 
 
@@ -60,7 +60,7 @@ Plus d'informations ?
 *  [Les mutations](3e/mutations.md) 
 *  [La photosynthèse](3e/photosynthese.md) 
 *  [Les théories de l'évolution](3e/theorie de levolution.md) 
- 
+
 ### Classe Relais
 
 
