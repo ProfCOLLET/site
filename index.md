@@ -18,6 +18,10 @@ Plus d'informations ?
 
 
 
+## >>> [Informations pratiques](infos.md)<<<
+
+
+
 ## Menu
 
 ### Cours de 5e
