@@ -42,7 +42,7 @@ Plus d'informations ?
 *  [Météorologie](5e/meteorologie.md) 
 *  [Organisation fonctionnelle du corps](5e/organisation du corps.md) 
 *  [La crise Permo-Trias](5e/permotrias.md) 
-*  [Les risques météorologique et climatiques](5e/risques meteo.md) 
+* [Meteo vs climat.md](5e/Meteo vs climat.md) 
 
 ### Cours de 4e
 
