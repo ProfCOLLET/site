@@ -45,6 +45,7 @@ Plus d'informations ?
 * [La puberté](4e/La puberté.md)
 * [Relation Proie/Prédateur](4e/Relation proie predateur.md)
 * [Séismes](4e/Séismes.md)
+* [La planète Terre](4e/terre.md) 
 
 ### Cours de 3e
 
