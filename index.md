@@ -1,6 +1,6 @@
 # Bienvenue
 
-Ce cours regroupe des cours, des morceau de cours, ou des activités, plus ou moins rangées. 
+Ce site regroupe des cours, des morceaux de cours, ou des activités, plus ou moins rangées. 
 
 Tout ce qui se trouve sur ce site est sous licence (CC), reproduction partielle ou totale gratuite et authorisée, modification partielle ou totale authorisée, commerce interdit.
 
