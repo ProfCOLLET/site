@@ -1,13 +1,6 @@
----
-title: 'La cellule'
-taxonomy:
-    category:
-        - chapter
-shortcode-citation:
-    items: cited
-    reorder_uncited: true
-visible: true
----
+# La cellule
+
+
 
 ## Définition de cellule : 
 

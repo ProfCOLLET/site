@@ -1,13 +1,6 @@
----
-title: 'Les mutations'
-taxonomy:
-    category:
-        - chapter
-shortcode-citation:
-    items: cited
-    reorder_uncited: true
-visible: true
----
+# Les mutations
+
+
 
 Une mutation est une modification, accidentelle ou provoquée, aléatoire ou souhaitée de l'information génétique (séquence d’ADN) dans le génome.
 
@@ -30,11 +23,11 @@ Il y a :
 
 Exemple d'un extrait de code génétique :
 
- 
+
 	ATTGCGCTGTGTCAACACGAAACTGACTGACGTTGCCT
-    
+	
 	||||||||||||||||||||||||||||||||||||||
-    
+	
 	TAACGCGACACAGTTGTGCTTTGACTGACTGCAACGTA
 
 Les nucléotides s'associe deux par deux : 
@@ -67,17 +60,17 @@ Les mutations **somatiques** ne touchent pas les cellules destinées à la repro
 Cette mutation ponctuelle se traduit par le remplacement d'un nucléotide par un autre.
 
 	ATTGCGCTGTGTCAACACGAAACTGACTGACGTTGC[C]T
-    
+	
 	||||||||||||||||||||||||||||||||||||||
-    
+	
 	TAACGCGACACAGTTGTGCTTTGACTGACTGCAACGTA
-    
+
 devient 
     
 	ATTGCGCTGTGTCAACACGAAACTGACTGACGTTGCCT
-    
+	
 	||||||||||||||||||||||||||||||||||||||
-    
+	
 	TAACGCGACACAGTTGTGCTTTGACTGACTGCAACGGA
 
 ### Mutation par délétion
@@ -85,17 +78,17 @@ devient
 Cette mutation se traduit par la suppression d'un ou plusieurs nucléotides. 
 
 	ATTGCGCTGTGTCAACACGAAACTGACTG[ACGTTG]CCT
-    
+	
 	||||||||||||||||||||||||||||||||||||||
-    
+	
 	TAACGCGACACAGTTGTGCTTTGACTGACTGCAACGGA
-    
+
 devient 
     
 	ATTGCGCTGTGTCAACACGAAACTGACTGCCT
-    
+	
 	||||||||||||||||||||||||||||||||
-    
+	
 	TAACGCGACACAGTTGTGCTTTGACTGACGGA
 
 ### Mutation par insersion
@@ -103,33 +96,34 @@ devient
 Cette mutation se traduit par la suppression d'un ou plusieurs nucléotides. 
 
 	ATTGCGCTGTGTCAACACGAAACTGACTG[ACGTTG]CCT
-    
-    ||||||||||||||||||||||||||||||||
-    
-    TAACGCGACACAGTTGTGCTTTGACTGACGGA
+	
+	||||||||||||||||||||||||||||||||
+	
+	TAACGCGACACAGTTGTGCTTTGACTGACGGA
 
 devient
 
 	ATTGCGCTGTGTCAACACGAAACTGACTGACGTTGCCT
-    
-    ||||||||||||||||||||||||||||||||||||||
-    
-    TAACGCGACACAGTTGTGCTTTGACTGACTGCAACGGA
-    
-     
-    
-    
+	
+	||||||||||||||||||||||||||||||||||||||
+	
+	TAACGCGACACAGTTGTGCTTTGACTGACTGCAACGGA
+
+
+​     
+​    
+​    
 
 ### Mutation par translocation
 
 Mutation ou une partie d'un gène est déplacé à une autre endroit du génome. 
 
 	ATTGCGCTGTGTCAACACGAAACTGACTGAC[GTTGCC]T
-    
-    |||||||||||||||||||||||||||||||[||||||]|
-    
-    TAACGCGACACAGTTGTGCTTTGACTGACTG[CAACGG]A
-    
+	
+	|||||||||||||||||||||||||||||||[||||||]|
+	
+	TAACGCGACACAGTTGTGCTTTGACTGACTG[CAACGG]A
+
 La partie entre crochet va être déplacé, et va être insérer ailleurs dans le génome, elle sera échangé avec une autre séquence. 
 
 ### Mutations chromosomiques

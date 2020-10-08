@@ -1,13 +1,4 @@
----
-title: 'Homo sapiens'
-taxonomy:
-    category:
-        - chapter
-shortcode-citation:
-    items: cited
-    reorder_uncited: true
-visible: true
----
+
 
 # La lignée humaine
 
@@ -23,5 +14,5 @@ scientifiques incluent les Chimpanzés et les Bonobos.
 
 ## Les représentants de la lignée humaine
 
-!! en construction
+en construction
 

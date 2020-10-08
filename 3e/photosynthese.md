@@ -1,13 +1,4 @@
----
-title: 'La photosynthèse'
-taxonomy:
-    category:
-        - chapter
-shortcode-citation:
-    items: cited
-    reorder_uncited: true
-visible: true
----
+# La photosynthèse
 
 
 La photosynthèse est le processus, se déroulant dans les chroloplastes (voir *cellule végétale*), qui permet à des organismes  de synthétiser de la matière organique en utilisant l'énergie lumineuse. Elle apparaît il y a plus de 2,45 milliards d'années.

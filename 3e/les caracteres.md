@@ -1,13 +1,4 @@
----
-title: 'Les caractères'
-taxonomy:
-    category:
-        - chapter
-shortcode-citation:
-    items: cited
-    reorder_uncited: true
-visible: true
----
+# Les caractères
 
 Il existe des caractères communs entre deux espèces, mais aussi des caractères propres à chaque espèces. 
 

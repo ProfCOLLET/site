@@ -1,13 +1,4 @@
----
-title: 'Les plantes à fleurs'
-taxonomy:
-    category:
-        - chapter
-shortcode-citation:
-    items: cited
-    reorder_uncited: true
-visible: true
----
+# Classification des plantes
 
 ## Un peu de classification
 
@@ -33,7 +24,7 @@ La plantes possèdent deux zones de croissances :
 * Un **APEX** caulinaire, qui assure une croissance verticale vers le haut. Il est situé au bout de la tige principale. 
 
 Dans une seconde partie de son développement, et selon les plantes, une croissance secondaire apparait pour une augmentation de circonférence. 
- 
+
 ## Anatomie de la feuille
 
 ![](http://www.ac-grenoble.fr/ecoles/hg/local/cache-vignettes/L500xH411/Constitution_d_une_feuille-4f9b7.jpg)

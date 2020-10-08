@@ -1,13 +1,4 @@
----
-title: 'L''ADN'
-taxonomy:
-    category:
-        - chapter
-shortcode-citation:
-    items: cited
-    reorder_uncited: true
-visible: true
----
+# L'ADN
 
 L’A.D.N. (**A**cide **D**ésoxyribo**N**ucléïque) est une molécule porteuse de l’information génétique. Cette information est chimique. Le métabolisme du corps va traduire cette information en caractère. 
 

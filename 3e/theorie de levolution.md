@@ -1,14 +1,4 @@
----
-title: 'Théories de l''évolution'
-taxonomy:
-    category:
-        - chapter
-shortcode-citation:
-    items: cited
-    reorder_uncited: true
-visible: true
----
-
+# Théories de l''évolution
 Voici les 4 grandes théories de l'évolution. 
 
 ## Le transformisme 

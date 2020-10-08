@@ -1,14 +1,3 @@
----
-title: 'Tableaux de Croisement'
-published: false
-taxonomy:
-    category:
-        - chapter
-shortcode-citation:
-    items: cited
-    reorder_uncited: true
----
-
 # Croisement simple, 2 gènes sur 2 chromosomes différents
 
 
