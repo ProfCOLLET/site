@@ -76,6 +76,8 @@ Plus d'informations ?
 
 ### Autres thèmes
 
+*  [Virus, infection et COVID19](Autres/Le coronavirus.md)
+
 #### Formations et orientation
 
 - [Fiches formations](Fiches/fiches formation.md) 
