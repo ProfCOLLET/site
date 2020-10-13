@@ -10,7 +10,7 @@ Dans un premier temps, nous verrons que LUCA est notre ancêtre à tous, puis no
 
 
 
-## Comment prouver que LUCA est notre ancetre à tous ? 
+## Comment prouver que LUCA est notre ancêtre à tous ? 
 
 ![](../Img/1.png)
 
