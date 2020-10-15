@@ -58,7 +58,7 @@ Plus d'informations ?
 *  [La cellule végétale](3e/cellule vege.md) 
 *  [Classification des plantes](3e/classif plantes.md) 
 *  [Les croisements (génétique)](3e/croisement.md) 
-*  [*Homo sapiens*](3e/homo sapiens.md) 
+*  [*Homo sapiens* et la lignée humaine](3e/homo sapiens.md) 
 *  [La cellule](3e/la cellule 3e.md) 
 *  [Les caractères](3e/les caracteres.md) 
 *  [La mitose](3e/mitose.md) 
