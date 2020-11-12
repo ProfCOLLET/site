@@ -24,6 +24,12 @@ Plus d'informations ?
 
 ## Menu
 
+### Activité en classe
+
+- [Travail pour les 3e](Travaux d'élèves/3e.md) 
+
+- [Travail pour les 4e](Travaux d'élèves/4e.md) 
+
 ### Cours de 5e
 
 * [La cellule](5e/cellule.md)
