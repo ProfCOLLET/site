@@ -26,9 +26,9 @@ Plus d'informations ?
 
 ### Activité en classe
 
-- [Travail pour les 3e](Travaux eleves/3e.md) 
+- [Travail pour les 3e](Travauxeleves/3e.md) 
 
-- [Travail pour les 4e](Travaux eleves/4e.md) 
+- [Travail pour les 4e](Travauxeleves/4e.md) 
 
 ### Cours de 5e
 
