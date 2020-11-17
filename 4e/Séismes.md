@@ -35,13 +35,13 @@ Les ondes de surface (*ondes de Rayleigh, ondes de Love*) résultent de l'intera
 
 ![](https://1.bp.blogspot.com/-TGeQwCJxWss/T_tETzotCcI/AAAAAAAAAgQ/-TJleg2j4Tk/s1600/sismogramme.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dkxZ7J62I2w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e-adR0LabSI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xxeuayWk2dA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<video src="../videos/geol1/1.mp4"></video>
-
-<video src="../videos/geol1/2.mp4"></video>
-
-<video src="../videos/geol1/3.mp4"></video>
 
 
 
