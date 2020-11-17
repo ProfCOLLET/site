@@ -31,7 +31,7 @@ Voici une présentation de 5 représentants :
 
 
 
-Si de manière globale la morphologie de Néandertal est semblable à celle d'**Homo sapiens*, il existe de nombreuses différences si l'on compare les squelettes des deux espèces. Pour Néandertal, plus trapu, la cage thoracique est évasée, l'avant bras est de même taille que le bras, les membre inférieurs sont plus courts. 
+Si de manière globale la morphologie de Néandertal est semblable à celle d'*Homo sapiens*, il existe de nombreuses différences si l'on compare les squelettes des deux espèces. Pour Néandertal, plus trapu, la cage thoracique est évasée, l'avant bras est de même taille que le bras, les membre inférieurs sont plus courts. 
 
 Sa capacité crânienne évolue de *1500 à 1750 cm^3^*, supérieure à celle de l'*Homo sapiens* mais il est plus petit (en taille) que lui...
 
@@ -87,7 +87,7 @@ Par ailleurs *Homo erectus* est le premier hominidé à migrer hors d'Afrique. C
 
 
 
-La **bipédie**d'*habilis* est favorisée par des membres inférieurs plus robustes et des membres supérieurs plus légers. Toutefois il devait également utiliser son aptitude à grimper dans les arbres pour se déplacer.
+La **bipédie** d'*habilis* est favorisée par des membres inférieurs plus robustes et des membres supérieurs plus légers. Toutefois il devait également utiliser son aptitude à grimper dans les arbres pour se déplacer.
 
 Sa **capacité crânienne** allait de de 550 à 680 cm3.
 Doté d'incisives développées et de canines réduites *Homo habilis* était **omnivore**, on suppose qu'il n'était pas chasseur mais plutôt charognard.
@@ -102,8 +102,6 @@ Homo habilis devait vivre entre 30 et 40 ans.
 
 
 
-
-
 Le plus ancien fossile d'*Homo sapiens* a été retrouvé en 2017 sur le site du Jbel Irhoud au Maroc : les squelettes et restes de crânes de 5 individus ont été découverts et étudiés.
 
 
@@ -111,7 +109,7 @@ Sa capacité crânienne s'est modifiée... passant de 1100 cm^3^ pour les premie
 
 Constructeur d'outils de plus en plus perfectionnés (souvent des **armes**), il s'est aussi lancé dans la création artistique et nous a laissé de nombreuses **fresques** (comme Chauvet ou Lascaux).
 
-Peu après l' arrivée des *Homo sapiens* en Europe, les Néanderthaliens ont disparu. Sans pour l'accuser formellement, il est possible qu'*Homo sapiens* soit l'une des cause de son extinction. Par ailleurs on a retrouvés dans le génome individuel des *Homo sapiens* 3% de celui des néandertaliens.
+Peu après l'arrivée des *Homo sapiens* en Europe, les Néanderthaliens ont disparu. Sans pour l'accuser formellement, il est possible qu'*Homo sapiens* soit l'une des cause de son extinction. Par ailleurs on a retrouvés dans le génome individuel des *Homo sapiens* 3% de celui des néandertaliens.
 
 
 
