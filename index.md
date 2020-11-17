@@ -56,7 +56,8 @@ Plus d'informations ?
 * [Relation Proie/Prédateur](4e/Relation proie predateur.md)
 * [Séismes](4e/Séismes.md)
 * [La planète Terre](4e/terre.md) 
-*  [Risques sismiques](4e/Risques sismiques.md) 
+*  [Risques sismiques](4e/Risques sismiques.md)  
+* [Structure de la Terre](4e/Structure de la Terre.md) 
 
 ### Cours de 3e
 
