@@ -81,6 +81,7 @@ Plus d'informations ?
 ### DDVPT
 
 - [L'oral ddvpt](DDVPT/oral ddvpt.md) 
+-  [Présentation des formations](DDVPT/presentation.md) 
 
 ### Autres thèmes
 
