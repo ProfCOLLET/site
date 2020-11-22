@@ -58,6 +58,7 @@ Plus d'informations ?
 * [La planète Terre](4e/terre.md) 
 *  [Risques sismiques](4e/Risques sismiques.md)  
 * [Structure de la Terre](4e/Structure de la Terre.md) 
+*  [Volcanisme](4e/Volcanisme.md) 
 
 ### Cours de 3e
 
