@@ -2,13 +2,13 @@
 
 
 
-
-
-Les oraux de 3e auront lieu la semaine de la rentrée. 
+Rien pour le moment. 
 
 
 
-La partie écrite est à me rendre à l'adresse [Dm.profcollet.fr](http://dm.profcollet.fr) ou [https://nextcloud.profcollet.fr/index.php/s/yk4NDjBnC7Zdsjs](https://nextcloud.profcollet.fr/index.php/s/yk4NDjBnC7Zdsjs). 
+Pour me joindre : contact@profcollet.fr 
 
-Merci de renommer votre fichier **NOM.Prénom.Classe**.*extention*
+
+
+
 
