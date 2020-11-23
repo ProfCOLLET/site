@@ -70,13 +70,29 @@ Certains volcans vont produire des roches différenciées, comme de la **pierre 
 
 
 
+## 2 types de volcans
 
 
 
+Il existe des volcans **effusifs** et des volcans **explosifs**. 
 
 
 
+![](https://segpafacile.weebly.com/uploads/1/3/7/1/13713205/9280150_orig.jpg)
 
+### Volcan effusif
+
+Une éruption effusive est une éruption volcanique caractérisée par l'émission de **laves fluides** dont la majorité se répand à la surface d'un volcan, à l'opposé des éruptions explosives qui émettent principalement des laves fragmentées dans l'atmosphère.  
+
+La lave émise par les éruptions effusives est généralement **basaltique**, portée à des températures pouvant atteindre **les 1 200 °C**. 
+
+
+
+### Volcan explosif
+
+Une éruption explosive est une éruption volcanique caractérisée par l'émission de **laves fragmentées** dans l'atmosphère, à l'opposé des éruptions effusives qui émettent principalement des laves fluides sous la forme de coulées.
+
+Certains volcans explosifs peuvent connaître des phases de volcanismes effusif, à contrario, des volcans effusifs peuvent connaître des phases de volcanisme explosif.
 
 
 
