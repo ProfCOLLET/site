@@ -40,7 +40,9 @@ Sa taille va de quelques millimètres à plusieurs centimètres.
 
 Les magmas des profondeurs contiennent des gazs dissous, ces gazs ressortent des roches sous formes de fumées (souvents toxiques, avec des composés souffrés)
 
+### Cendres
 
+Les cendres sont des projections très fines.
 
 ### Vapeurs
 
