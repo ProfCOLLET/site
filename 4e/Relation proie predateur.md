@@ -1,8 +1,6 @@
 # Relation Proie / Prédateur
 
-> Activité p 180
-
-![](https://www.normalesup.org/~bli/ulm/lievrelynx.GIF)
+![](../Img/8.png)
 
 
 
