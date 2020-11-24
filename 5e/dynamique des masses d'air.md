@@ -25,3 +25,13 @@ L’air froid a tendance à descendre, il va donc s’accumuler près du sol, fo
 ## Cycle atmosphérique 
 
 ![](http://svt.ac-dijon.fr/schemassvt/IMG/cellules_convection.gif)
+
+
+
+## Le vent
+
+L’air froid a tendance à descendre, il va donc s’accumuler près du sol, formant les hautes pressions.
+
+L’air chaud monte en altitude, laissant un « vide » ou une zone de basse pression.
+
+L’air va alors **toujours** se déplacer **des hautes pressions vers les basses pressions**. C’est pour cela que le vent souffle toujours vers l’orage, car un orage est une grosse zone de basse pression atmosphérique. 
