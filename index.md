@@ -74,6 +74,7 @@ Plus d'informations ?
 *  [Les mutations](3e/mutations.md) 
 *  [La photosynthèse](3e/photosynthese.md) 
 *  [Les théories de l'évolution](3e/theorie de levolution.md) 
+*   [La selection naturelle](3e/La selection naturelle.md)
 
 ### Classe Relais
 
