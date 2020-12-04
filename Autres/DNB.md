@@ -16,33 +16,33 @@ Léa a 14 ans. Elle souffre de maux de gorge, a du mal à avaler et a de la fiè
 
 1.1. Les bactéries sont :
 
-[x] **des êtres vivants observables au microscope,**
-[ ] des êtres vivants visibles à l’oeil nu,
-[ ] des êtres vivants observables à la loupe.
+[x] **des êtres vivants observables au microscope,**<br/>
+[ ] des êtres vivants visibles à l’oeil nu,<br/>
+[ ] des êtres vivants observables à la loupe.<br/>
 
 > *En effet, ce sont des microorganisme, elles sont donc uniquement visible au microscope.*
 
 1.2. Les bactéries sont :
 
-[ ] toutes pathogènes,
-[x] **ne rendent pas forcément malades,**
-[ ] entraînent toujours la mort.
+[ ] toutes pathogènes,<br/>
+[x] **ne rendent pas forcément malades,**<br/>
+[ ] entraînent toujours la mort.<br/>
 
 > *Une bactérie n'est pas forcément pathogène, et même si elle l'est, ce n'est pas forcément mortel.*
 
 1.3. On rencontre des microorganismes :
 
-[x] **dans tous les milieux,**
-[ ] seulement dans l’air et dans l’eau,
-[ ] seulement à l'intérieur des organismes vivants.
+[x] **dans tous les milieux,**<br/>
+[ ] seulement dans l’air et dans l’eau,<br/>
+[ ] seulement à l'intérieur des organismes vivants.<br/>
 
 > *C'est ce qu'on appelle l'ubiquité des microorganismes.*
 
 1.4. La contamination est :
 
-[ ] la défense de l’organisme contre les microorganismes,
-[ ] la multiplication des microorganismes dans l’organisme,
-[x] **la pénétration des microorganismes dans l’organisme.**
+[ ] la défense de l’organisme contre les microorganismes,<br/>
+[ ] la multiplication des microorganismes dans l’organisme,<br/>
+[x] **la pénétration des microorganismes dans l’organisme.**<br/>
 
 > *La contamination n'est pas à confondre avec l'infection*
 
