@@ -84,7 +84,7 @@ Sur le résultat du test de Léa, il n'y a qu'une seule bande, donc son test est
 
 > L'unité arbitraire (ua) est une unité donné à titre indicatif, ici on peut dire qu'entre 10 ua et 100 ua, il y a 10 fois plus de virus. 
 
-L'expérience porte sur la culture de virus dans deux mileux nutritifs identiques, le milieu 1 est le **témoin**, sans **antibiotiques**, alors que l'on ajoute à 6h de l'expérience des **antibiotiques**. 
+L'expérience porte sur la culture de virus dans deux mileux nutritifs identiques, le milieu 1 est le **témoin**, sans **antibiotiques**, alors que dans le milieu 2, on ajoute à 6h de l'expérience des **antibiotiques**. 
 
 Après 25 h d'expérience, que ce soit dans le milieu 1 ou le milieu 2, on observe la même quantité de virus, environ 10 000 ua. J'en déduis que l'ajout d'antibiotique **n'a rien modifié quant à la multiplication du virus dans le milieu**, donc les **antibiotiques sont sans effet sur les virus.**
 
