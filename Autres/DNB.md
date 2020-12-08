@@ -68,7 +68,7 @@ Ce test se présente sous forme de bandelette, si celle ci présente **2 bandes*
 
 Un test **positif** signifie qu'il s'agit une angine **bactérienne**.
 
-Sur le résultat du test de Léa, il n'y a qu'une seule bande, donc son test est **négatif**. En conclusion, Léa est atteinte d'une **angine virale. **
+Sur le résultat du test de Léa, il n'y a qu'une seule bande, donc son test est **négatif**. En conclusion, Léa est atteinte d'une **angine virale.**
 
 ![](../Img/DNB/1d.png)
 
