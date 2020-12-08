@@ -106,11 +106,11 @@ C'est pour cela que le medecin ne prescrit pas d'antibiotiques à Léa, ceux-ci 
 
 Léa a de la fièvre, c'est signe d'une réponse de son **système immunitaire**, elle a une **infection.**
 
-D'après les , le médecin pense a une angine, mais il ne peux pas prescrire des  automatiquement, il doit pour cela faire un test (*Document 1*). Ce test permet de connaitre le type de maladie, dans le cas de Léa, il s'agit d'une **angine virale**. 
+Le médecin pense a une angine, mais il ne peux pas prescrire des antibiotiques automatiquement, il doit pour cela faire un test (*Document 1*). Ce test permet de connaitre le type de maladie, dans le cas de Léa, il s'agit d'une **angine virale**. 
 
-Grace au *Document 2*, nous savons que les  ne sont pas efficaces sur les virus, il n'est donc pas nécéssaire d'en prescrire à Léa. 
+Grace au *Document 2*, nous savons que les antibiotiques ne sont pas efficaces sur les virus, il n'est donc pas nécéssaire d'en prescrire à Léa. 
 
-De plus, nous apprenons grâce au *Document 3*, qu'en plus de n'avoir **aucun effet sur les virus**, les antibiotiques, prescrits sans nécessité ou de façon abusive, induisent une  des bactéries aux antibiotiques**, c'est à dire que les antibiotiques seront de moins en moins efficaces.
+De plus, nous apprenons grâce au *Document 3*, qu'en plus de n'avoir **aucun effet sur les virus**, les antibiotiques, prescrits sans nécessité ou de façon abusive, induisent une **résistance des bactéries aux antibiotiques**, c'est à dire que les antibiotiques seront de moins en moins efficaces.
 
 Pour conclure, le medecin de Léa ne lui prescrit pas d'antibiotiques, car premièrement, cela n'aura aucun effet sur sa maladie, et deuxièmement, si leurs utilisations n'est pas adaptée, cela induit une **résistance** des bactéries, ce qui pourrait **diminuer** l'efficacité de l'antibiotique, cela représente un danger si un jour Léa attrape une infection bactérienne et a besoin de ces antibiotiques pour se soigner.  
 
