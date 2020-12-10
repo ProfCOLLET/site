@@ -26,9 +26,8 @@ Plus d'informations ?
 
 ### Activité en classe
 
-- [Travail pour les 3e](Travauxeleves/3e.md) 
+-  [Définition de la Selection naturelle](Travauxeleves/Selection naturelle.md) 
 
-- [Travail pour les 4e](Travauxeleves/4e.md) 
 
 ### Cours de 5e
 
