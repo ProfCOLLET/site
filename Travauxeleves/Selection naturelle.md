@@ -14,4 +14,5 @@
 
 ## 3D
 
+* Selon Darwin, ce qu'il appelle la **sélection naturelle** est **l'adaptation** des individus en fonction de son **environnement**. Pour s'adapter, l'individu évolue en présentant un **caractère** nouveau à l'espèce. Sur 3 générations, les individus présentant un caractères nouveau **favorable** à l'espèce vont augmenter et les individus à caractères **défavorable** à l’espèce vont diminuer. Seuls les individus dont le nouveau caractère est favorable vont **survivre**. 
 * 
