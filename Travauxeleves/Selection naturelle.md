@@ -9,5 +9,9 @@
 ## 3B
 
 * La sélection naturelle selon Charles Darwin consiste en la sélection des individus dans leur **environnement** de naissance. Leurs **survie** dépend de la situation **favorable** ou **défavorable** de leurs caractères physiques et leurs **adaptations** vis à vis de **l'environnement**.
-* Selon Charles Darwin, seuls les individus mieux **adaptés** à leurs **milieux de vie** ont le plus de chance de se reproduire et transmettent leurs caractères ou leurs gènes à leurs progéniture (ou descendance). De plus il pensait avoir qu'avoir quelconque avantage (**favorable**) pouvait aider n'importe qui à **survivre**. A contrario, un caractère **défavorable** compromet la survie de l'individu. 
+* Selon Charles Darwin, seuls les individus mieux **adaptés** à leurs **milieux de vie** ont le plus de chance de se reproduire et transmettent leurs caractères ou leurs gènes à leurs progéniture (ou descendance). De plus il pensait avoir qu'avoir quelconque avantage (**favorable**) pouvait aider n'importe qui à **survivre**. A contrario, un caractère **défavorable** compromet la survie de l'individu.
 * Des caractères **favorables** ont plus de chance de **survivre** dans un **environnement** où ils sont **adaptés** contrairement aux individus présentant un caractère **défavorable**.
+
+## 3D
+
+* 
