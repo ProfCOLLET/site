@@ -20,9 +20,5 @@ Les formations de la voie technologique sont organisées par grands domaines (in
 
 Dans toutes les séries, les enseignements technologiques sont privilégiés, principalement par le biais de projets et d’études de cas concrets. Au sein de cette voie, vous avez le choix entre 8 séries de baccalauréat : STI2D, STL, STD2A, ST2S, STMG, STAV, TMD, ou encore la série hôtellerie.
 
-[Après la 2de 2017.pdf](Apre%CC%80s+la+2de+2017.pdf)
-
-[Après la 3e.pdf](Apre%CC%80s+la+3e,+rentr?e+2017.pdf)
-
 Les documents sont de 2017, vous trouverez les nouveaux, à jour, sur le site de [l'onisep](http://www.onisep.fr)
 
