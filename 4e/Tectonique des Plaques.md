@@ -44,6 +44,16 @@ Les plaques lithosphériques se déplacent :
 
 -  elles s’écartent au niveau des **dorsales** océaniques où se forme le plancher océanique basaltique ( *zone de divergence* ).
 
+![](https://lewebpedagogique.com/arnaud/files/2012/01/sans-titre1.jpg)
+
 - elles se rapprochent dans les zones de convergence:
   - La plaque la plus lourde (portant l’océan) s’enfonce dans l’asthénosphère ( **subduction** ) au niveau des fosses océaniques .
+  
+  ![](https://lewebpedagogique.com/arnaud/files/2012/01/subduction-2.jpg)
+  
   -  Lorsque deux plaques s’affrontent ( **collision** ) des chaines de montagnes se forment.
+
+
+
+
+
