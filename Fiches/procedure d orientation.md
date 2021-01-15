@@ -2,27 +2,5 @@
 
 
 
-<div class="mermaid">
-graph TB
-
-A(Intention d'orientation par la famille) --- B(Téléservice Académique)
-B --> C(Avis du Conseil de classe du 2e Trimestre)
-C-->|Accusé de réception des familles via les Téléservice Académique| E
-E(Voeux d'orientation des familles pour le 3e trimestre)--- X(Téléservice Académique)
-X-->Q{CdC du 3e trimestre}
-Q --> F(Validation du CdC)
-F--> G{Procédure d'Affectation}
-Q-->H(Refus du Cdc)
-H-->Z{Entretien avec le chef d'établissement}
-Z---I(Appel de la famille)
-Z-->J(Acceptation de la proposition du CdC)
-J-->G
-I-->|Procédure d'appel|K(Commision d'appel)
-K-->G
-G-->M(Affectation en Voeu 1/2/3/4 selon votre dossier scolaire, le nombre de places...)
-G-->N(Pas d'affectation)
-N-->P(Nouveaux voeux)
-P-->G
-
-</div>
+![](https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggVEJcblxuQShJbnRlbnRpb24gZCdvcmllbnRhdGlvbiBwYXIgbGEgZmFtaWxsZSkgLS0tIEIoVMOpbMOpc2VydmljZSBBY2Fkw6ltaXF1ZSlcbkIgLS0-IEMoQXZpcyBkdSBDb25zZWlsIGRlIGNsYXNzZSBkdSAyZSBUcmltZXN0cmUpXG5DLS0-fEFjY3Vzw6kgZGUgcmVjZXB0aW9uIGRlcyBmYW1pbGxlcyB2aWEgbGVzIFTDqWzDqXNlcnZpY2UgQWNhZMOpbWlxdWV8IEVcbkUoVm9ldXggZCdvcmllbnRhdGlvbiBkZXMgZmFtaWxsZXMgcG91ciBsZSAzZSB0cmltZXN0cmUpLS0tIFgoVMOpbMOpc2VydmljZSBBY2Fkw6ltaXF1ZSlcblgtLT5Re0NkQyBkdSAzZSB0cmltZXN0cmV9XG5RIC0tPiBGKFZhbGlkYXRpb24gZHUgQ2RDKVxuRi0tPiBHe1Byb2PDqWR1cmUgZCdBZmZlY3RhdGlvbn1cblEtLT5IKFJlZnVzIGR1IENkYylcbkgtLT5ae0VudHJldGllbiBhdmVjIGxlIGNoZWYgZCfDqXRhYmxpc3NlbWVudH1cblotLS1JKEFwcGVsIGRlIGxhIGZhbWlsbGUpXG5aLS0-SihBY2NlcHRhdGlvbiBkZSBsYSBwcm9wb3NpdGlvbiBkdSBDZEMpXG5KLS0-R1xuSS0tPnxQcm9jw6lkdXJlIGQnYXBwZWx8SyhDb21taXNpb24gZCdhcHBlbClcbkstLT5HXG5HLS0-TShBZmZlY3RhdGlvbiBlbiBWb2V1IDEvMi8zLzQgc2Vsb24gdm90cmUgZG9zc2llciBzY29sYWlyZSwgbGUgbm9tYnJlIGRlIHBsYWNlcy4uLilcbkctLT5OKFBhcyBkJ2FmZmVjdGF0aW9uKVxuTi0tPlAoTm91dmVhdXggdm9ldXgpXG5QLS0-RyIsIm1lcm1haWQiOnsidGhlbWUiOiJmb3Jlc3QifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)
 
