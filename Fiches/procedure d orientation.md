@@ -2,7 +2,7 @@
 
 
 
-<code class="language-mermaid">
+<div class="mermaid">
 graph TB
 
 A(Intention d'orientation par la famille) --- B(Téléservice Académique)
@@ -24,5 +24,5 @@ G-->N(Pas d'affectation)
 N-->P(Nouveaux voeux)
 P-->G
 
-</code>
+</div>
 

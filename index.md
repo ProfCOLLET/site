@@ -59,6 +59,7 @@ Plus d'informations ?
 * [Structure de la Terre](4e/Structure de la Terre.md) 
 * [Volcanisme](4e/Volcanisme.md)  
 * [Tectonique des Plaques](4e/Tectonique des Plaques.md) 
+* [Anatomie des organes sexuels](4e/organes sexuels.md) 
 
 ### Cours de 3e
 
