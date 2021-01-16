@@ -55,9 +55,10 @@ Plus d'informations ?
 * [Relation Proie/Prédateur](4e/Relation proie predateur.md)
 * [Séismes](4e/Séismes.md)
 * [La planète Terre](4e/terre.md) 
-*  [Risques sismiques et volcaniques](4e/Risques sismiques.md)  
+* [Risques sismiques et volcaniques](4e/Risques sismiques.md)  
 * [Structure de la Terre](4e/Structure de la Terre.md) 
-*  [Volcanisme](4e/Volcanisme.md) 
+* [Volcanisme](4e/Volcanisme.md)  
+* [Tectonique des Plaques](4e\Tectonique des Plaques.md) 
 
 ### Cours de 3e
 
@@ -77,7 +78,7 @@ Plus d'informations ?
 
 ### Classe Relais
 
-
+- [Fabriquer un jeu d'échecs](Autres/CR -  Les Echecs.md) 
 
 ### DDVPT
 

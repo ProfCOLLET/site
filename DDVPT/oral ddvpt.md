@@ -1,9 +1,5 @@
----
-title: 'L''oral DNB en DDVPT'
-shortcode-citation:
-    items: cited
-    reorder_uncited: true
----
+
+# L'oral DNB en DDVPT
 
 Il se déroule en 5 min, suivi de 10 min de questions avec le jury. 
 
