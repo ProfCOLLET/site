@@ -1,4 +1,4 @@
 
 
-# [Frise SVT.pdf](Frise SVT.pdf)
+# [Frise SVT.pdf](FriseSVT.pdf)
 
