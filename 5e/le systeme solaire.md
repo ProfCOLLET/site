@@ -2,7 +2,7 @@
 
 
 
-Images : [Système solaire.pdf](Syste%CC%80me%20solaire.pdf)
+Images : [Système solaire.pdf](Système solaire.pdf) 
 
 # Le Soleil
 
