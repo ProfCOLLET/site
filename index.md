@@ -1,4 +1,4 @@
-# Temps avant la rentrée scolaire en Seconde 2021/2022
+# Pour les 3e : temps avant la rentrée scolaire en Seconde 2021/2022
 
 <iframe name="compte_rebours_calendrier_journalier" id="compte_rebours_calendrier_journalier" style="width:300px;height:40px;" src="https://www.calendrier-journalier.fr/affiche_compte_rebours.php?date=01/09/2021&heure=08:00" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
 
