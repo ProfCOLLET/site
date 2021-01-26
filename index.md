@@ -22,9 +22,6 @@ Plus d'informations ?
 
 ## Menu
 
-### Activité en classe
-
-* [Définition de la Selection naturelle](Travauxeleves/Selection naturelle.md)
 
 ### Cours de 5e
 
@@ -74,6 +71,7 @@ Plus d'informations ?
 * [La photosynthèse](3e/photosynthese.md)
 * [Les théories de l'évolution](3e/theorie de levolution.md)
 * [La selection naturelle](3e/La selection naturelle.md)
+* [Définition de la Selection naturelle - Travail en classe](Travauxeleves/Selection naturelle.md)
 
 ### Classe Relais
 
