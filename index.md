@@ -2,6 +2,12 @@
 
 <iframe width="100%" height="480px" src="https://www.watchisup.fr/compte-a-rebours/embed/rentree-en-seconde-2021-09-01-08-00?backgroundcolor=&color=" frameborder="0" allowfullscreen></iframe>
 
+
+
+# Pour tous
+
+[Vous trouverez ici les vidéos des réponses aux questions sur la reproduction et la sexualité.](tiktok.md)
+
 # Bienvenue
 
 Ce site regroupe des cours, des morceaux de cours, ou des activités, plus ou moins rangées.
