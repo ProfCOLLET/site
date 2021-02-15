@@ -80,7 +80,7 @@ Plus d'informations ?
 
 ### Classe Relais
 
-* [Fabriquer un jeu d'échecs](Autres/CR - Les Echecs.md)
+* [Fabriquer un jeu d'échecs](Autres/CREchecs.md)
 
 ### DDVPT
 
